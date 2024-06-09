@@ -6,4 +6,4 @@ dataset link : https://www.kaggle.com/datasets/shubchat/1002-short-stories-from-
 
 using kaggle api 
 
-kaggle datasets download shubchat/1002-short-stories-from-project-guttenberg
+```kaggle datasets download shubchat/1002-short-stories-from-project-guttenberg```
